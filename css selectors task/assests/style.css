@@ -1,0 +1,28 @@
+body{
+    background-color: rgb(129, 127, 95);
+}
+
+h1:first-of-type{
+    color: rgb(149, 218, 252);
+}
+
+.firstp span{ 
+    color: yellow;
+}
+
+h4:first-of-type{
+    color: rgb(149, 218, 252);
+}
+* li{
+    color: white;
+}
+
+.movies p{
+    color: white;
+}
+.movies u{
+color: red; }
+
+#moods span{
+    color: white;
+}
